@@ -1,0 +1,10 @@
+SOFTWARE\7-Zip	Path
+SOFTWARE\*\IBM
+SYSTEM\MountedDevices
+Software\Microsoft\Windows\CurrentVersion\Run	
+SOFTWARE\Microsoft\Windows\CurrentVersion\WSMAN	WtrPresent
+Software\Microsoft\Windows\CurrentVersion\Run\	GizmoDriveDelegate
+Software\Microsoft\Windows\CurrentVersion\Run\	Evil
+Software\Microsoft\Windows\CurrentVersion\Run\	mat_test
+Software\Microsoft\Windows\CurrentVersion\Run\	nandy_test
+Software\Microsoft\Windows\CurrentVersion\Run	nandy_test_w_data

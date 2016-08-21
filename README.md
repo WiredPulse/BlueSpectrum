@@ -6,7 +6,7 @@ BlueSpectrum searches for Indicators of Compromise (IOC) in Registry keys\values
 Adding IOCs:
 Open one of the five IOC files and input an applicable indicator on each line. Please see the folder labled "Examples" for how an indicator should look in the file. 
 
-Usage:
+Usage:<br>
 1) Download the ZIP of this repoository and unzip it.
 2) Add applicable IOCs to the indicator files.
 3) Run BlueSpectrum.ps1 from a PS console.

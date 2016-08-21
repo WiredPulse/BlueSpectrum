@@ -43,10 +43,10 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTkyMDc1MTU6MTJjOTZmNmJlMTNmYTE1Y2FkOGQ3NTFjZWZlODk4YmQ6YTg4YTAyNWFlZDI3YmY5YTc4YzgzZDI1NTMwZmNkY2IwM2RhOWIwZjc3ZDNiZWY2N2I4NDhlMjM3NTBjMjZkYQ==--79bfb1006e8405f2ecdf351d4132dd5e6c35c13e">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTkyMDc1MTU6MTJjOTZmNmJlMTNmYTE1Y2FkOGQ3NTFjZWZlODk4YmQ6NTdmYzg3YWIwNjU4NDY1ZDJhNzk3MDdjNDc5MTJhOTFkOWY4NTdlYzEyODE3NmQ5MTZmYmIwZTZhZDc3MzlmZg==--76f45408c5cf0ecb422c1d1cdc2b49653625ef2f">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
-    <meta name="request-id" content="49BEE0D8:3D6F:86D6E28:57B9FADD" data-pjax-transient>
+    <meta name="request-id" content="49BEE0D8:3D74:78118F1:57B9FB2B" data-pjax-transient>
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -56,7 +56,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="49BEE0D8:3D6F:86D6E28:57B9FADD" name="octolytics-dimension-request_id" /><meta content="19207515" name="octolytics-actor-id" /><meta content="wiredpulse" name="octolytics-actor-login" /><meta content="61e53f9a418b1cf457d661bca7335b1192bdf850ed026e082fc6a82fe4972ed0" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="49BEE0D8:3D74:78118F1:57B9FB2B" name="octolytics-dimension-request_id" /><meta content="19207515" name="octolytics-actor-id" /><meta content="wiredpulse" name="octolytics-actor-login" /><meta content="61e53f9a418b1cf457d661bca7335b1192bdf850ed026e082fc6a82fe4972ed0" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -69,7 +69,7 @@
     <meta name="user-login" content="wiredpulse">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="OTMwNTVlOTgwNTcxMmZhOGE4MzU0M2NkYzk5OGNiNTY5Y2Q5YmE1NzQzNDRjOTIzM2RhMzcyN2ExNDRiNmZmZXx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMTkwLjIyNC4yMTYiLCJyZXF1ZXN0X2lkIjoiNDlCRUUwRDg6M0Q2Rjo4NkQ2RTI4OjU3QjlGQUREIiwidGltZXN0YW1wIjoxNDcxODA2MTczfQ==">
+      <meta name="js-proxy-site-detection-payload" content="OWZhZDQzZjEzOWRmY2E5NTY3ZGM1ZjVhOWM0YTc0Njk2MDBiYjgwY2U0MWJkZGY1YTcxYjIzN2M0Zjk4ZjI3YXx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMTkwLjIyNC4yMTYiLCJyZXF1ZXN0X2lkIjoiNDlCRUUwRDg6M0Q3NDo3ODExOEYxOjU3QjlGQjJCIiwidGltZXN0YW1wIjoxNDcxODA2MjU1fQ==">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -229,7 +229,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QW48VdP1YDj4c4IPjbWIQwDuOa6ZojIiXfrL1MBVpHVgQtnvcShVtEYP1oTAdv/aOajS5urJ6jx6j2Cp99BLPg==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KC9wWrqGVEVdRBlYp20bwUE8hF9J9EYBbJrY7533OKzFubul6PZ6+ui44/9aBibBZfpBKyKZIabgwKq7rjnJ4A==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -265,7 +265,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VdFwDu0A28k7BigAbzm3o+i+WxWsHdYS/mtI648wkG3nUn91/zFr/Vo3gYDGrs35lNr2pzy7pAMIvoqLQoY9sw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="66214492" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TOTdGmbwc4jHgwKi2VduJVFJBPTWAgz7k+5rJUg487BBr5JtuMUQuxKYsxQL6156GNvta8V1lEHR5HTI3BFA3Q==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="66214492" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/wiredpulse/BlueSpectrum/subscription"
@@ -340,7 +340,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/unstar" class="starred" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ilwHOjhPxBYqHdpxUODYa9tMCER+TzTKgCx5nc1PX9Uwofux2dD3bKZ2fUqD2v/j4wzXUpnq/TOpKHTk3WvGgQ==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/unstar" class="starred" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="yRUcooxBSXpmVTTOXIhXZA2aQrEh9tB5b/VgdvfMGKs2+OAEDt/dcDkmipHsT/IAXFyobj+6tdIv2J5f7YmK4Q==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar wiredpulse/BlueSpectrum"
@@ -352,7 +352,7 @@
           0
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/star" class="unstarred" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bGR/lkp/8XNW4YSbh8suf1ijqZ6rOFPTk/ilZt8F2RZ4+SrEcsslikD3vCuw0yt+YlnDmTB9xWU37E5pQDOKRA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/star" class="unstarred" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hc25rs+oCZjQGQvA0ntN1EpLaCgCsHVEGsuU6HdsJq4MiufYUhkfQE6+MVmP1AHVrpgRB+moxax5/7CeZSB79Q==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star wiredpulse/BlueSpectrum"
@@ -368,7 +368,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/fork" class="btn-with-count" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ay6/tgEhUUdi9oMEJACjDVspoHao5MgDcQyG8ngKimqlVbmzirO4lFRIM8ULBrkaKE7FJMe5auG3Sj/bLt/Ywg==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/fork" class="btn-with-count" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gy3q7tBZV3TPuQ48AWvjZ2xMi9JAHwq73YI0AwOZKDFPcKit7UJy14FER+x/9GCdY5pjVKDmfXEQHrjPqzz+0A==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -453,9 +453,9 @@
 
     
 
-<a href="/wiredpulse/BlueSpectrum/blob/415b55db23da50ff790a2d5666aade7ec368290c/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/wiredpulse/BlueSpectrum/blob/2f3496c32d1f206fcd24b8b521b4af7fb1e9e5cb/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:7c28ef9a81278d86cc9eb52c4abcb2eb -->
+<!-- blob contrib key: blob_contributors:v21:732f7f0d486da1421b73c0c8e6f2f28f -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -518,7 +518,7 @@
             </a>
         </div>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vOLGgCZvuAkEEVcE0DW2mHBFVoBHqBkIzH2ryG4QYUTaYyX0lQYDBC3bMnnn0Uz6EaybOiyN/ULt04iFQmbE8g==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KHzL6Oa39vJAkPxKF2IshPd9IzL1MkvG1veISft4OO0yipzIgi+KzS2HwKLfKPBC1j9DnuNy+xSsAjXz7fXkJQ==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -560,15 +560,15 @@
 
   <div class="commit-tease">
       <span class="right">
-        <a class="commit-tease-sha" href="/wiredpulse/BlueSpectrum/commit/204586ec4ee14e4ccece1d1870a00f6d784091c3" data-pjax>
-          204586e
+        <a class="commit-tease-sha" href="/wiredpulse/BlueSpectrum/commit/2f3496c32d1f206fcd24b8b521b4af7fb1e9e5cb" data-pjax>
+          2f3496c
         </a>
-        <relative-time datetime="2016-08-21T18:55:29Z">Aug 21, 2016</relative-time>
+        <relative-time datetime="2016-08-21T19:04:04Z">Aug 21, 2016</relative-time>
       </span>
       <div>
         <img alt="@wiredpulse" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/19207515?v=3&amp;s=40" width="20" />
         <a href="/wiredpulse" class="user-mention" rel="author">wiredpulse</a>
-          <a href="/wiredpulse/BlueSpectrum/commit/204586ec4ee14e4ccece1d1870a00f6d784091c3" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
+          <a href="/wiredpulse/BlueSpectrum/commit/2f3496c32d1f206fcd24b8b521b4af7fb1e9e5cb" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -607,12 +607,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/edit/master/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2CMseFYsBRXraUZrq4iRXut+rFp0z3szAmUCutnWFahLiahMGFYE2XznLtOWSjUpzyCn7mZgVRyPI2tV0MU3Kw==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/edit/master/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Wz8md0fgNxaOlOpXBDFNrIT3CF9fFK63CwYbip+IYd82WihDVZmrIFy88U7OBDImc5cTkAb1aX2kjFGwSoS+3w==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/delete/master/README.md" class="inline-form" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TCcvoEHcQ68Kw0RZpTrN9RnwALme2u7KOJq0eth12qh8iquFfcFZqJHR5wRHalZeaxTvfIiYVQxHcsZDKHXn+Q==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/wiredpulse/BlueSpectrum/delete/master/README.md" class="inline-form" data-form-nonce="2eaed5bec4b37324824c97d4dd59c7c849f3c5fc" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kzrr1XC4Sd2IWVt8p4xauFKPnaNrdHDC4ySGXRo19YQiaT4Di0BhHNCKOGiJMAnBMRqTXZtY7lxHrJTT6bjzqQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -622,7 +622,7 @@
   <div class="file-info">
       19 lines (18 sloc)
       <span class="file-info-divider"></span>
-    806 Bytes
+    834 Bytes
   </div>
 </div>
 
@@ -634,18 +634,18 @@
 <br>
 <br>
 Adding IOCs:<br>
-Open one of the five IOC files and input an applicable indicator on each line. Please see the folder labled "Examples" for how an indicator should look in the file. 
+Open one of the five IOC files and input an applicable indicator on each line. Please see the folder labled "IOC_Examples" for how an indicator should look in the file. 
 <br>
 <br>
 Usage:<br>
-1) Download the ZIP of this repoository and unzip it.
-2) Add applicable IOCs to the indicator files.
-3) Run BlueSpectrum.ps1 from a PS console.
-4) When prompted, select the applicable options.
-5) Review findings in the "Results" folder.
+1) Download the ZIP of this repoository and unzip it.<br>
+2) Add applicable IOCs to the indicator files.<br>
+3) Run BlueSpectrum.ps1 from a PS console.<br>
+4) When prompted, select the applicable options.<br>
+5) Review findings in the "Results" folder.<br>
 <br>
 <br>
-Remote Usage:
+Remote Usage:<br>
 There are a few ways to run BlueSpectrum remotely to include using PSRemoting, PSEXEC, and/or WMI. We only address running it locally. </p>
 </article>
   </div>
@@ -685,7 +685,7 @@ There are a few ways to run BlueSpectrum remotely to include using PSRemoting, P
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.06981s from github-fe150-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.07046s from github-fe131-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

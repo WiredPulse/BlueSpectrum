@@ -1,4 +1,3 @@
-# BlueSpectrum
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/BlueSpectrum.PNG?raw=true "Optional Title")
 
 

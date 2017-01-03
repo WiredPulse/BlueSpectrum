@@ -22,11 +22,33 @@ Open one of the five IOC files and input an applicable indicator on each line. P
 There are a few ways to run BlueSpectrum remotely to include using PSRemoting, PSEXEC, and/or WMI. We only address running it locally. 
 
 # Screenshots
+Indicators
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Indicators.PNG?raw=true "Optional Title")
+<br>
+<br>
 Process Call in action with status updates<br>
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Process_Call.PNG?raw=true "Optional Title")
+<br>
 <br>
 Results are returned to the local machine and begin with the IP or hostname of the system it came from.<br>
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Results.PNG?raw=true "Optional Title")
 <br>
-Any hits to an IOC are shown in the result files. 
-![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/IOC_Hits.PNG?raw=true "Optional Title")
+<br>
+Connection hits
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/connscan_hits.PNG?raw=true "Optional Title")
+<br>
+<br>
+Registry scan hits
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/registry_hits.PNG?raw=true "Optional Title")
+<br>
+<br>
+Hash scan hits hits
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/hashscan_hits.PNG?raw=true "Optional Title")
+<br>
+<br>
+file size scan hits
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/filesize_hits.PNG?raw=true "Optional Title")
+<br>
+<br>
+Filename scan hits
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/filename_hits.PNG?raw=true "Optional Title")

@@ -22,7 +22,7 @@ Open one of the five IOC files and input an applicable indicator on each line. P
 There are a few ways to run BlueSpectrum remotely to include using PSRemoting, PSEXEC, and/or WMI. We only address running it locally. 
 
 # Screenshots
-Indicators
+## Indicators
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Indicators.PNG?raw=true "Optional Title")
 <br>
 <br>

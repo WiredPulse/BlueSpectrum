@@ -34,7 +34,7 @@ There are a few ways to run BlueSpectrum remotely to include using PSRemoting, P
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Results.PNG?raw=true "Optional Title")
 <br>
 <br>
-## Connection hits
+## Connection scan hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/connscan_hits.PNG?raw=true "Optional Title")
 <br>
 <br>

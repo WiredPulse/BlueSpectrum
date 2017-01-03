@@ -46,7 +46,7 @@ Hash scan hits hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/hashscan_hits.PNG?raw=true "Optional Title")
 <br>
 <br>
-file size scan hits
+File size scan hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/filesize_hits.PNG?raw=true "Optional Title")
 <br>
 <br>

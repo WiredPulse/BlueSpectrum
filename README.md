@@ -22,7 +22,7 @@ Open one of the five IOC files and input an applicable indicator on each line. P
 # Remote Usage:<br>
 There are a few ways to run BlueSpectrum remotely to include using PSRemoting, PSEXEC, and/or WMI. We only address running it locally. 
 
- * Bullet list
-           * Nested bullet
-            * Sub-nested bullet etc
-          * Bullet list item 2
+ * Bullet list<br>
+           * Nested bullet<br>
+            * Sub-nested bullet etc<Br>
+          * Bullet list item 2<br>

@@ -1,4 +1,4 @@
-![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/BlueSpectrum.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/BlueSpectrum.PNG?raw=true "Optional Title")
 
 
 BlueSpectrum is an IOC framework written in PowerShell. It searches for Indicators of Compromise (IOC) in Registry keys\values, network connections, file metadata, and or hashes. 

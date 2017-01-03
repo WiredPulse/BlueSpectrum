@@ -26,29 +26,29 @@ There are a few ways to run BlueSpectrum remotely to include using PSRemoting, P
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Indicators.PNG?raw=true "Optional Title")
 <br>
 <br>
-Process Call in action with status updates<br>
+## Process Call in action with status updates<br>
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Process_Call.PNG?raw=true "Optional Title")
 <br>
 <br>
-Results are returned to the local machine and begin with the IP or hostname of the system it came from.<br>
+## Results are returned to the local machine and begin with the IP or hostname of the system it came from.<br>
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/Results.PNG?raw=true "Optional Title")
 <br>
 <br>
-Connection hits
+## Connection hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/connscan_hits.PNG?raw=true "Optional Title")
 <br>
 <br>
-Registry scan hits
+## Registry scan hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/registry_hits.PNG?raw=true "Optional Title")
 <br>
 <br>
-Hash scan hits hits
+## Hash scan hits hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/hashscan_hits.PNG?raw=true "Optional Title")
 <br>
 <br>
-File size scan hits
+## File size scan hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/filesize_hits.PNG?raw=true "Optional Title")
 <br>
 <br>
-Filename scan hits
+## Filename scan hits
 ![Alt text](https://github.com/WiredPulse/BlueSpectrum/blob/master/Screenshots/filename_hits.PNG?raw=true "Optional Title")

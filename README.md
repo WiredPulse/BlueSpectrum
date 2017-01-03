@@ -12,11 +12,11 @@ Open one of the five IOC files and input an applicable indicator on each line. P
 1) Download this repository and unzip it.<br>
 2) Add applicable IOCs to the indicator files.<br>
 3) Change applicable variables
-* BlueSpectrum_Process_Call.ps1 -- Lines 18, 21, 24, and 27<br>
-* BlueSpectrum.ps1 -- Line 46<br>
-4 Run BlueSpectrum.ps1 from a PS console.<br>
-4) When prompted, select the applicable options.<br>
-5) Review findings in the "Results" folder.<br>
+ * BlueSpectrum_Process_Call.ps1 -- Lines 18, 21, 24, and 27<br>
+ * BlueSpectrum.ps1 -- Line 46<br>
+4) Run BlueSpectrum.ps1 from a PS console.<br>
+5) When prompted, select the applicable options.<br>
+6)) Review findings in the "Results" folder.<br>
 <br>
 <br>
 # Remote Usage:<br>

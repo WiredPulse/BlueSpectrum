@@ -8,3 +8,4 @@ Software\Microsoft\Windows\CurrentVersion\Run\	Evil
 Software\Microsoft\Windows\CurrentVersion\Run\	mat_test
 Software\Microsoft\Windows\CurrentVersion\Run\	nandy_test
 Software\Microsoft\Windows\CurrentVersion\Run	nandy_test_w_data
+Software\Grr--05

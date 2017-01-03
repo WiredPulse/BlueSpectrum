@@ -1,4 +1,0 @@
-Evil.exe
-Nasty.exe
-Imbedded.docx
-Stuff.pcap
